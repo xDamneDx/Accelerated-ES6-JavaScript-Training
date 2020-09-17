@@ -1,1 +1,3 @@
 # Accelerated-ES6-JavaScript-Training
+
+"Accelerated ES6 JavaScript Training" by Maximilian Schwarzmüller...
