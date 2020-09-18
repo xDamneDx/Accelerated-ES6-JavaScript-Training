@@ -8,16 +8,16 @@ body {
 
 header {
   height: 100px;
-  background-color: lightblue;
+  background-color: #ADD8E6;
   text-align: center;
   padding-top: 20px;
-  box-shadow: 3px 3px 3px #ccc;
+  box-shadow: 3px 3px 3px #CCCCCC;
 }
 
 header h1 {
   font-size: 40px;
   font-weight: bold;
-  color: dodgerblue;
+  color: #1E90FF;
   margin: 0;
 }
 
@@ -42,25 +42,25 @@ header h1 {
 #search button {
   font-family: inherit;
   font-size: inherit;
-  background-color: dodgerblue;
-  border: 1px solid dodgerblue;
+  background-color: #1E90FF;
+  border: 1px solid #1E90FF;
   border-radius: 3px;
   cursor: pointer;
-  color: white;
+  color: #FFFFFF;
 }
 
 #search button:hover {
-  background-color: deepskyblue;
+  background-color: #00BFFF;
 }
 
 #weather {
   padding: 30px;
-  border: 1px solid #ccc;
+  border: 1px solid #CCCCCC;
   width: 500px;
   margin: 100px auto auto;
-  background-color: deepskyblue;
-  box-shadow: 2px 2px 3px #ccc;
-  color: white;
+  background-color: #00BFFF;
+  box-shadow: 2px 2px 3px #CCCCCC;
+  color: #FFFFFF;
   box-sizing: border-box;
   display: none;
   font-weight: bold;

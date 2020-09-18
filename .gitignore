@@ -9,3 +9,6 @@ dist/
 # Packages folders
 node_modules/
 build/
+
+# API keys
+API.js
